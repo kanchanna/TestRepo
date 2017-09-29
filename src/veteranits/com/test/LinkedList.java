@@ -1,3 +1,4 @@
+package veteranits.com.test;
 
 public class LinkedList<T> {
 	private Node<T> head;
