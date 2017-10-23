@@ -31,6 +31,8 @@ public class LinkedList<T> {
 		
 		LinkedList llObj = new LinkedList();
 		llObj.addNode(1);
+		
+		System.out.println("Hello world");
 		llObj.addNode(34);
 		System.out.println("Hello world");
 
